@@ -1,4 +1,4 @@
-echo "# Aula2 %date%" > README.md
+echo "# Aula2 %date% %time%" > README.md
 git init
 git add . -v
 git commit -m "first commit"
